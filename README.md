@@ -43,7 +43,7 @@ Having undertaken two separate research endeavors, I learned the following from 
 2. **Differentiability.** What unique factors would make your work stand out? It is best to understand the demands of the field and how your research would help progress. Discussing ideas with fellow researchers at conferences and journal reviewers would help ensure that your work can stand out against the rest.
 3. **Drafts don’t have to be bullet-proof.** It is perfectly understandable to be rejected multiple times. In fact, submitting drafts and receiving feedback early on could help you work out the necessary areas of improvement that should be covered so that you make a robust paper.
 4. **Make your work presentable.** Besides submitting drafts, you can present your work at conferences and use the discussion and questions to test your research in the eyes of your fellow peers. Presentation and clear communication of the ideas is an absolute must to facilitate this process. The same is true for the paper itself, as the abstract and important figures must effectively demonstrate your key ideas.
-\
+
 
 ### Internships: undergrad research as a window into the industry
 
