@@ -64,6 +64,7 @@ After a broad mix of industry and research experiences, I decided to head straig
 3. **Academia in the long run.** I quickly realized that a PhD would be mandatory to pursue a long-term career in academia. This especially applies if you ever plan on becoming a full-time professor.
 4. **The best time to do research is a PhD.** The PhD is perhaps the only time in your career where you can truly dedicate yourself to independent research.
 ### PhD Admissions and the NSF GRFP Fellowship
+{% include figure.html image="images/blog/nsf.jpg" %}\
 Finding and being accepted at a PhD program best suited for your needs is a completely different process. The advisor, program, and learning environment are the most important factors to consider. I recommend reaching out directly to faculty to determine program fit and availability. While professors can be too busy to respond to emails, it never hurts to try.\
 \
 The ideal program should provide you with the proper resources and mentorship to guide you through your PhD. One of the most important resources is PhD funding. While master’s degree candidates are expected to pay tuition, PhDs usually require funding sourced either from the university or external fellowships. Funding provides peace of mind for students to dedicate themselves fully to research. Given that either the PhD advisor or departmental program is expected to support you over the average five-year duration, you must ensure that your research advisor of interest is willing to accept PhD candidates.\
@@ -85,4 +86,4 @@ The NSF GRFP application is due before most if not all PhD applications. Use the
 As a Computer Science PhD Candidate at Columbia under Dr. David Knowles, I look forward to delving deeper into applied machine learning methods in genomics. I am excited to engage in interdisciplinary initiatives that empower researchers of different backgrounds to solve the greatest open challenges in biomedicine. At the New York Genome Center, I hope to pursue research that sparks innovation at the intersection of computing and human health.
 \
 Thank you to Dr. Eleazar Eskin (UCLA Computer Science and Computational Medicine), Dr. Serghei Mangul (USC School of Pharmacy), Dr. Harold Pimentel (UCLA Computational Medicine), and Dr. Bo Lu (Illumina) for providing me the guidance and self-belief to jumpstart a career in research. I could not have come this far without your support.
-\
+{% include figure.html image="images/blog/cert.jpg" %}\
