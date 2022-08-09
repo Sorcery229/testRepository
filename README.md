@@ -43,4 +43,11 @@ Having undertaken two separate research endeavors, I learned the following from 
 ### Internships: undergrad research as a window into the industry
 *Toward the end of my first year, I took upper-division computer science courses in bioinformatics at UCLA. Getting a head start on learning advanced algorithms and tools improved my capabilities as a computer scientist and researcher. I was able to apply valuable skills from bioinformatics (Bash, Python, Jupyter Notebooks, high-performance computing) to academic coursework. For instance, I trained a neural network on a large dataset for my natural language processing class much faster by running parallel jobs on UCLA’s GPU clusters. The same skill set would prove to be essential in industry.*\
 My unique skill set and experience in bioinformatics research led me to pursue a summer internship opportunity at Illumina, the current industry leader in DNA sequencing. The bioinformatics intern position was a perfect fit for my research background.\
-The hiring process. While the usual rule of thumb is to keep your resume limited to a single page for industry, I decided to submit a longer CV-style resume that emphasized the following:
+\
+**The hiring process.** While the usual rule of thumb is to keep your resume limited to a single page for industry, I decided to **submit a longer CV-style resume** that emphasized the following:
+- bioinformatics research **publications**
+- **NSF REU summer** experience
+- UCLA bioinformatics **minor** + computer science **major coursework**
+- **keywords** that are relevant to bioinformatics (genomics, next-generation sequencing, structural variants)
+\
+After passing the resume screening, I was given a **HireVue** to record audio answers to interview questions. The questions were a mix of background questions (resume review) and conceptual questions on bioinformatics and machine learning. The final round was a live interview with the team. Unlike software engineering interviews, there were no coding questions. Rather, the questions tested my ability to think on the spot and communicate my answers coherently using math, stats, and computer science concepts.
