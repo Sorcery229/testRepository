@@ -89,7 +89,7 @@ The NSF GRFP application is due before most if not all PhD applications. Use the
 \
 \
 **Comments from GRFP reviewers.** The NSF GRFP Fellowship admissions process requires every reviewer to provide comments on the quality of the applications they receive. While the reviewers examining your fellowship application will most likely be different from mine, I noticed all three reviewers emphasized similar qualities that stood out to them: 
-\
+
 - **Overall background and qualifications.** Academic record (GPA), research (publications, posters), scholarships, awards and internships were all heavily considered. Putting effort into the personal resume and making sure to cover all relevant experience is strongly recommended.
 - **Research plan.** Based on my research statement, they commented on whether I held a deep understanding of the field (bioinformatics) and **communicated** my ideas clearly. GRFP reviewers don’t expect you to follow through with your plan, but a well-thought-out research statement provides evidence of clear direction.
 ### What’s next: NSF GRFP Fellow, Columbia CS PhD
