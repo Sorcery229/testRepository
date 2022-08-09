@@ -14,7 +14,7 @@ tags:
 ---
 ### My journey to pursuing a PhD in Computer Science
 
-All the preconceived notions I held about computer science at UCLA were thrown out the window after the first year of classes. From dissecting assembly code to developing a router in C, I was exposed to a broad range of topics that led me to discover that software engineering is only a minuscule part of computer science. To open myself to the true range and potential of computing, I discovered an alternate path in academic research. Through genomics, I was able to set a clear direction for my path in computer science: harnessing the unprecedented scalability and precision of computational methods to develop quantitative solutions in biomedicine.\
+All the preconceived notions I held about computer science at UCLA were thrown out the window after the first year of classes. From dissecting assembly code to developing a router in C, I was exposed to a broad range of topics that led me to discover that software engineering is only a minuscule part of computer science. To open myself to the true range and potential of computing, I discovered an alternate path in academic research. Through genomics, I was able to set a clear direction for my path in computer science: harnessing the unprecedented scalability and precision of computational methods to develop quantitative solutions in biomedicine.
 
 
 
