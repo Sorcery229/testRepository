@@ -88,6 +88,7 @@ The NSF GRFP application is due before most if not all PhD applications. Use the
 - **Directness preferred.** Your application serves to directly address the faculty in your desired program or field. Hence, essays usually convey a more informative and direct tone that directly addresses what the admissions committee is looking for. Rather than being overly descriptive, delve deeper into what makes the research appeals to you.
 \
 \
+\
 **Comments from GRFP reviewers.** The NSF GRFP Fellowship admissions process requires every reviewer to provide comments on the quality of the applications they receive. While the reviewers examining your fellowship application will most likely be different from mine, I noticed all three reviewers emphasized similar qualities that stood out to them: 
 
 - **Overall background and qualifications.** Academic record (GPA), research (publications, posters), scholarships, awards and internships were all heavily considered. Putting effort into the personal resume and making sure to cover all relevant experience is strongly recommended.
