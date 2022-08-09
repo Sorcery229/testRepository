@@ -45,13 +45,13 @@ Having undertaken two separate research endeavors, I learned the following from 
 My unique skill set and experience in bioinformatics research led me to pursue a summer internship opportunity at Illumina, the current industry leader in DNA sequencing. The bioinformatics intern position was a perfect fit for my research background.\
 \
 **The hiring process.** While the usual rule of thumb is to keep your resume limited to a single page for industry, I decided to **submit a longer CV-style resume** that emphasized the following:
-- bioinformatics research **publications**
+- Bioinformatics research **publications**
 - **NSF REU summer** experience
 - UCLA bioinformatics **minor** + computer science **major coursework**
-- **keywords** that are relevant to bioinformatics (genomics, next-generation sequencing, structural variants)
+- **Keywords** that are relevant to bioinformatics (genomics, next-generation sequencing, structural variants)
 \
-After passing the resume screening, I was given a **HireVue** to record audio answers to interview questions. The questions were a mix of background questions (resume review) and conceptual questions on bioinformatics and machine learning. The final round was a live interview with the team. Unlike software engineering interviews, there were no coding questions. Rather, the questions tested my ability to think on the spot and communicate my answers coherently using math, stats, and computer science concepts.
-{% include figure.html image="images/blog/illumina1.jpg" caption="Illumina Headquarters, San Diego" %}
+After passing the resume screening, I was given a **HireVue** to record audio answers to interview questions. The questions were a mix of background questions (resume review) and conceptual questions on bioinformatics and machine learning. The final round was a live interview with the team. Unlike software engineering interviews, there were no coding questions. Rather, the questions tested my ability to think on the spot and communicate my answers coherently using math, stats, and computer science concepts.\
+{% include figure.html image="images/blog/illumina1.jpg" caption="Illumina Headquarters, San Diego" %}\
 The tools I used in my research translated extremely well to my position as a bioinformatics intern on the Illumina Primary Analysis (IPA) team. As the team solely consisted of senior scientists with PhDs, I was absorbed into a research-oriented and collaborative work environment. It was inspiring to learn from their personal experiences as PhD graduates and how they combined their expertise from different STEM fields to solve complex problems. At Illumina, I drew from my prior experience in researching error correction methods to engineer new computational tools for addressing sequence-specific errors and bias in primary analysis. I also got my first taste of machine learning visualization through t-SNE dimensionality reduction, which I used to measure how primary metrics such as error rate and chastity would impact sequencing errors.\
 *Keep in mind that your research experience is far more valued as a PhD applicant. Internships are reserved for forging a career in industry unless the position is highly research-oriented and catered to your subfield of interest.*
 ### Why PhD?
